@@ -1,0 +1,12 @@
+{
+  "name": "tweetvidfusion",
+  "version": "1.0.0",
+  "description": "Video application with tweets functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Backend", "Express", "Mongodb"],
+  "author": "Prashant kumar singh",
+  "license": "ISC"
+}
